@@ -1,0 +1,6 @@
+Warszawa|350000|opis|budownicza|320|0|0
+Bialystok|250000|opis|budownicza|1220|0|0
+Gdansk|50000|opis|budownicza|1520|0|0
+Katowice|25000|opis|budownicza|120|0|0
+Wroclaw|33000|opis|budownicza|3220|0|0
+Gdynia|31000|opis|budownicza|1340|0|0

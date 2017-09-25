@@ -1,0 +1,6 @@
+Warszawa|450000|opis|3|2|0|0
+Bialystok|350000|opis|1|2|0|0
+Gdansk|250000|opis|5|2|0|0
+Katowice|150000|opis|5|3|0|0
+Wroclaw|50000|opis|3|2|0|0
+Gdynia|120000|opis|1|1|0|0
